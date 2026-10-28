@@ -13,3 +13,4 @@ This is project 1 of my portfolio
 ## Author
 **Clare Aori**| 2nd Year Statistics Student |Aspiring Data Analyst
 GitHub: @odhiambotobias872-commits
+Contact: clareaori@gmail.com
